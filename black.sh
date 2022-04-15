@@ -1,4 +1,4 @@
-#created by MrHacker-X; give me credit if you're using any part of this script.
+#created by Black-boy; give me credit if you're using any part of this script.
 #bin/bash
 
 clear
@@ -10,7 +10,7 @@ echo -e "\033[1;92m
 ##   ##    ##  ##     ## ##     ## ##  #### 
 ##    ##   ##  ##     ## ##     ## ##   ### 
 ##     ## #### ##     ##  #######  ##    ##
-\033[1;91m<═══\033[1;41m\033[1;97m Created by MrHacker-X \033[;0m\033[1;91m═══>\033[1;92m"
+\033[1;91m<═══\033[1;41m\033[1;97m Created by Black-Boy \033[;0m\033[1;91m═══>\033[1;92m"
 
 echo -e '\033[1;92m'
 termux-setup-storage
