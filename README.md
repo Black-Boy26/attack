@@ -1,4 +1,6 @@
-# Black-Boy
+# Black-Boy tool
+
+# Installation:
 
 $ apt update
 
@@ -14,7 +16,6 @@ $ chmod +x *
 
 $ bash black.sh (or) $ ./black.sh
 
-
-Tool run for python :
+# Now wait for installation of the tool, If your setup is completed then you can run it by this
 
 $ python tergat.py (or) $ python3 tergat.py
