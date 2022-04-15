@@ -1,12 +1,17 @@
 # Black-Boy
 
 $ apt update
+
 $ apt upgrade
+
 $ apt install git -y
+
 $ git clone
 
 $ cd attack
+
 $ chmod +x *
+
 $ bash black.sh (or) $ ./black.sh
 
 
