@@ -8,7 +8,7 @@ $ apt upgrade
 
 $ apt install git -y
 
-$ git clone
+$ git clone https://github.com/Black-Boy26/attack
 
 $ cd attack
 
