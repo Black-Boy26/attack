@@ -1,4 +1,4 @@
-#created by Black-boy; give me credit if you're using any part of this script.
+#created by MrHacker-X; give me credit if you're using any part of this script.
 #bin/bash
 
 clear
@@ -37,7 +37,7 @@ cd $HOME
 echo -e '\033[1;92m'
 wget -O ~/instapy-config.json "https://git.io/v5DGy"
 echo -e '\033[1;92m'
-echo 'Setup is completed \nBlack-Boy is launching...'
+echo 'Setup is completed \nBruteX is launching...'
 cd $HOME
-rm black.sh
-python black.sh
+rm setup.sh
+python brutex.sh
